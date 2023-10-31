@@ -1,6 +1,6 @@
-# notes_app
+# Notes App using Sqflite 
 
-A new Flutter project.
+A new Flutter project of Note Taking App using SQL Database using the Package Sqflite.
 
 ## Getting Started
 
